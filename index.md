@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Hi I don't know how you got here, but welcome!!!
 
-You can use the [editor on GitHub](https://github.com/aguirrejuan/aguirrejuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an electronic engineer, I like to play with stuff like programming💻, computer vision👀, sometimes I play with Tux🐧 and it gives me pinguinitis 😅 and then I can't stop experimenting with Linux and yeah I'm using hacker theme I need to burn that stage 😎
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aguirrejuan/aguirrejuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Warning: this page is under construction, I still don't have enough content to make it unnoticed, I am going to work on it..**
