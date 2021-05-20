@@ -10,3 +10,14 @@ p{
     color:red
 }
 
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 99%;
+  height: 2.5rem;            /* Footer height */
+}
+
+img {
+  width:900px;
+  height: auto;
+}
