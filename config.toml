@@ -1,0 +1,25 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Juan's Blog"
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Welcome to Juan's Blog"
+Content = "Hi, I'm Juan. I am excited to share meaningful ideas about my daily life and articulate my knowledge through this blog. Join me on this journey as I explore various aspects of my life and offer insights into my experiences."
+
+[[params.socialIcons]]
+name = "github"
+title = "GitHub"
+url = "https://github.com/aguirrejuan"
+
+
+
+[params]
+env = "production"
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
+safari_pinned_tab = "/safari-pinned-tab.svg"
