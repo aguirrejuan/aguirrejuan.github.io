@@ -1,7 +1,7 @@
 ---
 title: "The Concept of Search Space in Machine learning"
 date: 2023-06-25T10:00:33-05:00
-draft: false
+draft: True
 tags: ["Math", "Thinking"]
 categories: ["Blog"]
 math: true
@@ -40,7 +40,7 @@ That is why different layers in deep learning models usually are better for cent
 
 # Conclusions
 
-The models set a possible space of function where we can navigate to find the best fit for our problem. 
+The models set a possible space of functions where we can navigate to find the best fit for our problem. 
 
 This navigation is done in deep learning through gradient descent and cost function.
 
